@@ -28,7 +28,7 @@ public class Game implements Runnable {
 	}
 
 	public void run() {
-		System.out.println("Running");
+		System.out.println("Running game");
 	}
 	private Canvas getCanvas(){
 		Canvas c = new Canvas();
